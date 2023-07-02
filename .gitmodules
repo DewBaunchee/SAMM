@@ -1,0 +1,12 @@
+[submodule "ContinuouslyStochasticAnalyticModel"]
+	path = ContinuouslyStochasticAnalyticModel
+	url = https://github.com/DewBaunchee/ContinuouslyStochasticAnalyticModel
+[submodule "DiscreteAnalyticModel"]
+	path = DiscreteAnalyticModel
+	url = https://github.com/DewBaunchee/DiscreteAnalyticModel
+[submodule "Lemer"]
+	path = Lemer
+	url = https://github.com/DewBaunchee/Lemer
+[submodule "NumberGenerators"]
+	path = NumberGenerators
+	url = https://github.com/DewBaunchee/NumberGenerators
